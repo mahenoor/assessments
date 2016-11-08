@@ -8,4 +8,8 @@ require 'average.html';
 
 	echo "num2 is :$num2<br />";
 	echo "average is:$average";
+//echo $average;
+
+
+//require 'average.html';
 ?>
